@@ -9,5 +9,6 @@ public class test{
         jFile.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
         s.length();
         String a="dsada";
+       System.out.println("Hello world");
     }
 }
